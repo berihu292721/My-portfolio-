@@ -5,7 +5,7 @@ Welcome to my personal portfolio repository! I am a passionate developer focused
 ---
 
 ## 🚀 About Me
-* 💻 **Interests:** Computer Science, Information Systems, Software Development, and Database Design.
+* 💻 **Interests:** Information Systems, Software Development, and Database Design.
 * 🛠️ **Tech Stack:** Java, C++, PHP, SQL, HTML, CSS, JavaScript.
 * 📱 **Development Setup:** Building, testing, and deploying full-stack projects entirely from mobile devices using local servers and Git.
 

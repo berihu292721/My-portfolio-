@@ -27,6 +27,6 @@ Welcome to my personal portfolio repository! I am a passionate developer focused
 ---
 
 ## 📫 Connect With Me
-* **GitHub:** [berihu2927](https://github.com/berihu2927)
+* **GitHub:** [berihu2927](https://github.com/berihu292721)
 
 Feel free to explore my repositories and check out my work!
